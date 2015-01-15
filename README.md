@@ -1,2 +1,2 @@
 # hello-world
-mi primera cuenta
+print "mi primera cuenta"
